@@ -40,6 +40,9 @@ BrightBytes is a comprehensive platform that employs a range of cutting-edge tec
 ![cloudinary-seeklogo com](https://github.com/prakhar00007/BrightBytes/assets/92537028/7d730933-4960-4769-9630-580258666bc6)
 
 
-**Mail Service:** [Mailtrap](https://mailtrap.io/home)
+**Mail Service:** 
+
+![mailtrap-new-logo (1)](https://github.com/prakhar00007/BrightBytes/assets/92537028/d3706078-e487-4e25-b45c-6edc0960673d)
+
 
 
