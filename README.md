@@ -48,7 +48,7 @@ BrightBytes is a comprehensive platform that employs a range of cutting-edge tec
 
 - Login/Signup User Account
 - Update Profile/Password User Account
-- Reset Password Mail using Mailtrap
+- Reset Password using Mailtrap
 - Change Profile Picture
 - Browse Courses and Add them to Playlist
 - Request New Course
