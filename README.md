@@ -44,5 +44,26 @@ BrightBytes is a comprehensive platform that employs a range of cutting-edge tec
 
 ![mailtrap-new-logo (1)](https://github.com/prakhar00007/BrightBytes/assets/92537028/d3706078-e487-4e25-b45c-6edc0960673d)
 
+## 🚀 Features
 
+- Login/Signup User Account
+- Update Profile/Password User Account
+- Reset Password Mail using Mailtrap
+- Change Profile Picture
+- Browse Courses and Add them to Playlist
+- Request New Course
+- Admin Dashboard Access to Only Admin Roles
+- Admin: Create Courses
+- Admin: Manage Users (Change Role, Delete User)
+- Admin: Manage Images and Videos in Cloudinary
+- Admin: Manage Razorpay Subscriptions
 
+## 🏁 Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository.
+2. Install the dependencies.
+3. Configure the environment variables.
+4. Start the backend server using `npm run dev`.
+5. Start the frontend server using `npm start`.
