@@ -1,4 +1,4 @@
-# BrightBytes
+# **BrightBytes - Knowledge in Every Byte**
 
 **BrightBytes is a comprehensive platform that employs a range of cutting-edge technologies, including React, Redux, Node.js, Postman, MongoDB, and Razorpay. Through this platform, users can securely log in via JWT Authentication and benefit from the robust password hashing capabilities of BCrypt. Additionally, users can purchase courses, submit requests for new courses, and leverage the platform's integrated payment gateway powered by Razorpay.**
 
