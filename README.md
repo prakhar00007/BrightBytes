@@ -67,3 +67,47 @@ To get started with the project, follow these steps:
 3. Configure the environment variables.
 4. Start the backend server using `npm run dev`.
 5. Start the frontend server using `npm start`.
+
+## Sneak Peek of Admin Dashboard 🙈 :
+![image](https://github.com/prakhar00007/BrightBytes/assets/92537028/2121d3fa-e60b-4a52-8e23-23134c8ba799)
+
+<table>
+  <tr>
+     <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/d8babfa9-4ef4-482c-8751-3a736245d3c5" alt="mockup" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/7696f4c9-1022-4bab-9104-3ab4672d254f" alt="screenshot" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/7696f4c9-1022-4bab-9104-3ab4672d254f" alt="screenshot" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/3f6f93d7-c271-4649-b51d-1e49e2b5c7e0" alt="screenshot" /></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/7d397e38-99cd-458b-a108-7386991b1422" alt="screenshot" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/c68c454b-7c6e-4976-b3af-aac44345ddf0" alt="screenshot" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/81529833-1e48-43df-8d18-ee37a9510fd4" alt="screenshot" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/c6361ce3-bbea-4038-8077-bf36f65ef6af" alt="screenshot" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/691b7b91-eb70-49e2-abc9-237c9135b653" alt="screenshot" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/120ece48-a4ee-4f96-a321-f1e596cf39b0" alt="screenshot" /></td>
+  </tr>
+   
+</table>
+
+![Screenshot 2023-06-22 064746](https://github.com/prakhar00007/BrightBytes/assets/92537028/13fd4979-03d9-4cf9-98c6-4db3be44d07f)
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-kumar-singh)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prakharrathore111@gmail.com)
+
+
+
+
+
+
+
