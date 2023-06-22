@@ -93,7 +93,21 @@ To get started with the project, follow these steps:
    
 </table>
 
-![Screenshot 2023-06-22 064746](https://github.com/prakhar00007/BrightBytes/assets/92537028/13fd4979-03d9-4cf9-98c6-4db3be44d07f)
+## 💸Payment Info
+<table>
+  <tr>
+     <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/b63ddc0f-2963-4854-ab11-8a035f7f081a" alt="Screenshot 2023-06-23 031211" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/48c03ecb-6908-4b79-9208-9df484e25d54" alt="Screenshot 2023-06-23 030541" /></td>
+    <td><img src="https://github.com/prakhar00007/BrightBytes/assets/92537028/16f35cfa-05d1-47e9-80ff-8754bbb394f7" alt="Screenshot 2023-06-23 030557" /></td>
+   
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 ## 💡Future Enhancements
